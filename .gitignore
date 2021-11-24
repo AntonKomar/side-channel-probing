@@ -1,0 +1,11 @@
+*.o
+*.so
+*.log
+*.pdf
+web
+test
+probe
+autoprobe
+test.png
+measurements.csv
+.vscode/
